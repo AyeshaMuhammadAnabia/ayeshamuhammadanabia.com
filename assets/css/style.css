@@ -1,0 +1,32 @@
+/* header area */
+.logo img{
+    width: 80px;
+    cursor: pointer;
+}
+.main-menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 30px;
+}
+.main-menu li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    font-weight: 700;
+}
+.main-menu i{
+    font-size: 25px;
+}
+a.btn-network {
+    margin-top: 22px;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 16px;
+    display: block;
+    background: tomato;
+    text-align: center;
+    color: #000;
+    font-weight: 700;
+    border-radius: 4px;
+}
+/* ./header area */
